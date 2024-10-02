@@ -26,6 +26,6 @@
 ![Karelys GitHub stats](https://github-readme-stats.vercel.app/api?username=Karelyslopez23&show_icons=true&theme=radical)
 
 ### Languages 🌐
-Spanish -Fluent
-Portuguese -Fluent
+Spanish -
+Portuguese -
 English - Intermediary/learning
